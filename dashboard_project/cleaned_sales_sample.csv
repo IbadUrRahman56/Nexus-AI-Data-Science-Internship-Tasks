@@ -1,0 +1,801 @@
+order_id,order_date,product_id,product_name,category,country,quantity,price,revenue
+ORD1000,2024-02-02 00:00:00,P477,Delta Charger,Electronics,Canada,2,279,558
+ORD1001,2024-10-09 07:00:00,P311,Alpha Phone,Electronics,Pakistan,3,13,39
+ORD1002,2024-08-26 12:00:00,P963,Epsilon Watch,Accessories,United Kingdom,4,198,792
+ORD1003,2024-06-09 22:00:00,P348,Alpha Phone,Wearables,United Kingdom,2,13,26
+ORD1004,2024-06-07 17:00:00,P407,Theta Lens,Wearables,Germany,1,358,358
+ORD1005,2024-11-09 18:00:00,P967,Epsilon Watch,Accessories,Germany,4,198,792
+ORD1006,2024-02-01 13:00:00,P604,Gamma Headphones,Electronics,Pakistan,1,375,375
+ORD1007,2024-09-11 02:00:00,P337,Delta Charger,Electronics,Canada,3,279,837
+ORD1008,2024-03-14 09:00:00,P104,Epsilon Watch,Electronics,India,1,198,198
+ORD1009,2024-02-04 23:00:00,P486,Gamma Headphones,Electronics,Canada,1,375,375
+ORD1010,2024-07-11 01:00:00,P986,Gamma Headphones,Electronics,Germany,4,375,1500
+ORD1011,2024-12-22 21:00:00,P488,Delta Charger,Wearables,India,1,279,279
+ORD1012,2024-09-25 16:00:00,P728,Gamma Headphones,Electronics,Germany,3,375,1125
+ORD1013,2024-10-04 06:00:00,P327,Eta Bag,Electronics,France,3,191,573
+ORD1014,2024-09-18 18:00:00,P797,Alpha Phone,Accessories,India,1,13,13
+ORD1015,2024-10-13 20:00:00,P797,Eta Bag,Electronics,India,1,191,191
+ORD1016,2024-07-06 01:00:00,P646,Gamma Headphones,Accessories,Germany,4,375,1500
+ORD1017,2024-02-16 02:00:00,P793,Epsilon Watch,Electronics,Canada,3,198,594
+ORD1018,2024-11-02 15:00:00,P620,Beta Tablet,Electronics,United Kingdom,1,287,287
+ORD1019,2024-06-13 23:00:00,P440,Delta Charger,Accessories,Germany,4,279,1116
+ORD1020,2024-07-01 00:00:00,P763,Eta Bag,Wearables,India,2,191,382
+ORD1021,2024-05-15 15:00:00,P850,Gamma Headphones,Accessories,Germany,1,375,375
+ORD1022,2024-03-07 03:00:00,P856,Beta Tablet,Accessories,Canada,4,287,1148
+ORD1023,2024-12-04 15:00:00,P291,Epsilon Watch,Accessories,United States,1,198,198
+ORD1024,2024-10-12 14:00:00,P708,Beta Tablet,Electronics,Canada,3,287,861
+ORD1025,2024-08-23 02:00:00,P103,Gamma Headphones,Electronics,United Kingdom,4,375,1500
+ORD1026,2024-05-26 16:00:00,P614,Delta Charger,Accessories,India,3,279,837
+ORD1027,2024-10-27 21:00:00,P613,Epsilon Watch,Electronics,Germany,3,198,594
+ORD1028,2024-07-18 20:00:00,P426,Zeta Case,Wearables,United States,2,415,830
+ORD1029,2024-06-10 00:00:00,P993,Zeta Case,Accessories,United States,1,415,415
+ORD1030,2024-06-13 05:00:00,P893,Eta Bag,Electronics,Pakistan,3,191,573
+ORD1031,2024-03-23 05:00:00,P134,Alpha Phone,Accessories,India,4,13,52
+ORD1032,2024-02-03 10:00:00,P287,Gamma Headphones,Electronics,Pakistan,1,375,375
+ORD1033,2024-07-21 03:00:00,P286,Alpha Phone,Accessories,United States,4,13,52
+ORD1034,2024-11-20 20:00:00,P906,Alpha Phone,Wearables,United States,2,13,26
+ORD1035,2024-01-24 18:00:00,P566,Beta Tablet,Electronics,United Kingdom,3,287,861
+ORD1036,2024-11-09 19:00:00,P755,Epsilon Watch,Accessories,Pakistan,1,198,198
+ORD1037,2024-10-29 04:00:00,P828,Theta Lens,Electronics,Pakistan,3,358,1074
+ORD1038,2024-04-11 00:00:00,P790,Eta Bag,Accessories,Pakistan,1,191,191
+ORD1039,2024-08-18 21:00:00,P180,Zeta Case,Electronics,United States,2,415,830
+ORD1040,2024-03-01 06:00:00,P226,Eta Bag,Accessories,United Kingdom,3,191,573
+ORD1041,2024-10-03 15:00:00,P455,Beta Tablet,Accessories,India,1,287,287
+ORD1042,2024-09-12 21:00:00,P404,Eta Bag,Electronics,India,2,191,382
+ORD1043,2024-05-09 00:00:00,P771,Theta Lens,Accessories,Pakistan,3,358,1074
+ORD1044,2024-01-25 00:00:00,P240,Alpha Phone,Wearables,United States,1,13,13
+ORD1045,2024-12-20 00:00:00,P434,Delta Charger,Wearables,United States,2,279,558
+ORD1046,2024-06-11 03:00:00,P312,Eta Bag,Electronics,United States,2,191,382
+ORD1047,2024-11-21 01:00:00,P269,Delta Charger,Accessories,France,3,279,837
+ORD1048,2024-09-04 19:00:00,P255,Eta Bag,Wearables,Pakistan,4,191,764
+ORD1049,2024-10-11 14:00:00,P275,Theta Lens,Accessories,France,4,358,1432
+ORD1050,2024-10-04 23:00:00,P607,Delta Charger,Electronics,United Kingdom,1,279,279
+ORD1051,2024-03-12 19:00:00,P468,Alpha Phone,Accessories,Pakistan,1,13,13
+ORD1052,2024-05-12 23:00:00,P491,Gamma Headphones,Electronics,United States,1,375,375
+ORD1053,2024-06-19 05:00:00,P530,Beta Tablet,Electronics,Pakistan,3,287,861
+ORD1054,2024-06-30 06:00:00,P766,Delta Charger,Accessories,India,1,279,279
+ORD1055,2024-01-16 20:00:00,P874,Epsilon Watch,Accessories,Pakistan,1,198,198
+ORD1056,2024-07-18 05:00:00,P573,Delta Charger,Wearables,India,4,279,1116
+ORD1057,2024-02-26 01:00:00,P677,Beta Tablet,Accessories,France,4,287,1148
+ORD1058,2024-09-28 16:00:00,P763,Gamma Headphones,Wearables,Germany,4,375,1500
+ORD1059,2024-09-06 19:00:00,P720,Zeta Case,Accessories,Canada,2,415,830
+ORD1060,2024-12-02 23:00:00,P220,Alpha Phone,Wearables,India,3,13,39
+ORD1061,2024-09-28 22:00:00,P983,Beta Tablet,Electronics,France,3,287,861
+ORD1062,2024-05-13 02:00:00,P248,Theta Lens,Electronics,United Kingdom,1,358,358
+ORD1063,2024-12-19 18:00:00,P470,Alpha Phone,Wearables,India,3,13,39
+ORD1064,2024-05-29 20:00:00,P686,Delta Charger,Wearables,United States,3,279,837
+ORD1065,2024-04-28 16:00:00,P462,Beta Tablet,Wearables,France,2,287,574
+ORD1066,2024-11-26 19:00:00,P318,Alpha Phone,Electronics,United Kingdom,4,13,52
+ORD1067,2024-05-15 20:00:00,P930,Delta Charger,Electronics,France,3,279,837
+ORD1068,2024-01-28 10:00:00,P164,Epsilon Watch,Wearables,Canada,3,198,594
+ORD1069,2024-06-20 00:00:00,P321,Beta Tablet,Accessories,Germany,3,287,861
+ORD1070,2024-10-17 10:00:00,P992,Alpha Phone,Electronics,France,4,13,52
+ORD1071,2024-03-10 04:00:00,P756,Beta Tablet,Wearables,Pakistan,3,287,861
+ORD1072,2024-06-17 02:00:00,P178,Zeta Case,Wearables,Canada,2,415,830
+ORD1073,2024-02-17 02:00:00,P778,Eta Bag,Electronics,India,4,191,764
+ORD1074,2024-09-07 16:00:00,P971,Beta Tablet,Wearables,Germany,3,287,861
+ORD1075,2024-06-22 12:00:00,P187,Gamma Headphones,Wearables,United Kingdom,4,375,1500
+ORD1076,2024-04-30 12:00:00,P472,Gamma Headphones,Accessories,United States,1,375,375
+ORD1077,2024-03-23 17:00:00,P520,Gamma Headphones,Accessories,United Kingdom,2,375,750
+ORD1078,2024-07-25 13:00:00,P217,Beta Tablet,Electronics,France,4,287,1148
+ORD1079,2024-09-01 15:00:00,P280,Alpha Phone,Wearables,Germany,3,13,39
+ORD1080,2024-12-09 02:00:00,P256,Epsilon Watch,Wearables,Canada,4,198,792
+ORD1081,2024-06-08 20:00:00,P266,Gamma Headphones,Wearables,Germany,1,375,375
+ORD1082,2024-02-28 10:00:00,P462,Gamma Headphones,Wearables,Pakistan,1,375,375
+ORD1083,2024-10-30 03:00:00,P516,Gamma Headphones,Electronics,France,4,375,1500
+ORD1084,2024-08-17 19:00:00,P313,Theta Lens,Accessories,United States,2,358,716
+ORD1085,2024-09-12 17:00:00,P360,Epsilon Watch,Accessories,United States,3,198,594
+ORD1086,2024-02-05 01:00:00,P272,Delta Charger,Wearables,Germany,2,279,558
+ORD1087,2024-04-24 04:00:00,P815,Beta Tablet,Accessories,Canada,2,287,574
+ORD1088,2024-10-07 00:00:00,P290,Eta Bag,Accessories,Pakistan,4,191,764
+ORD1089,2024-10-30 06:00:00,P915,Theta Lens,Electronics,France,1,358,358
+ORD1090,2024-06-07 02:00:00,P584,Alpha Phone,Wearables,Pakistan,4,13,52
+ORD1091,2024-10-20 17:00:00,P821,Theta Lens,Accessories,France,4,358,1432
+ORD1092,2024-11-03 12:00:00,P672,Zeta Case,Electronics,Canada,3,415,1245
+ORD1093,2024-05-21 23:00:00,P339,Alpha Phone,Wearables,France,2,13,26
+ORD1094,2024-11-23 17:00:00,P640,Eta Bag,Electronics,France,1,191,191
+ORD1095,2024-04-15 14:00:00,P346,Alpha Phone,Electronics,Pakistan,3,13,39
+ORD1096,2024-03-28 12:00:00,P206,Alpha Phone,Electronics,United Kingdom,2,13,26
+ORD1097,2024-09-06 01:00:00,P329,Alpha Phone,Accessories,France,1,13,13
+ORD1098,2024-08-20 01:00:00,P347,Delta Charger,Electronics,United Kingdom,2,279,558
+ORD1099,2024-02-21 14:00:00,P221,Epsilon Watch,Wearables,Pakistan,4,198,792
+ORD1100,2024-10-30 00:00:00,P121,Delta Charger,Accessories,Pakistan,2,279,558
+ORD1101,2024-03-13 01:00:00,P948,Alpha Phone,Electronics,France,1,13,13
+ORD1102,2024-10-20 05:00:00,P561,Beta Tablet,Electronics,India,3,287,861
+ORD1103,2024-01-03 21:00:00,P461,Eta Bag,Accessories,Germany,1,191,191
+ORD1104,2024-10-17 11:00:00,P936,Theta Lens,Electronics,United States,4,358,1432
+ORD1105,2024-10-14 17:00:00,P301,Eta Bag,Wearables,France,4,191,764
+ORD1106,2024-10-11 09:00:00,P462,Alpha Phone,Electronics,Pakistan,4,13,52
+ORD1107,2024-08-30 04:00:00,P861,Eta Bag,Accessories,United States,4,191,764
+ORD1108,2024-06-21 08:00:00,P668,Zeta Case,Electronics,United States,1,415,415
+ORD1109,2024-09-14 02:00:00,P458,Epsilon Watch,Electronics,United Kingdom,1,198,198
+ORD1110,2024-04-11 18:00:00,P329,Beta Tablet,Electronics,Pakistan,2,287,574
+ORD1111,2024-10-11 04:00:00,P131,Theta Lens,Electronics,Germany,2,358,716
+ORD1112,2024-07-21 09:00:00,P176,Delta Charger,Wearables,India,4,279,1116
+ORD1113,2024-06-16 23:00:00,P245,Alpha Phone,Wearables,India,3,13,39
+ORD1114,2024-07-03 14:00:00,P807,Beta Tablet,Wearables,Germany,3,287,861
+ORD1115,2024-07-26 11:00:00,P674,Delta Charger,Electronics,France,4,279,1116
+ORD1116,2024-01-14 13:00:00,P489,Alpha Phone,Wearables,Canada,3,13,39
+ORD1117,2024-02-21 18:00:00,P803,Gamma Headphones,Accessories,United States,2,375,750
+ORD1118,2024-03-30 06:00:00,P244,Delta Charger,Electronics,Canada,2,279,558
+ORD1119,2024-02-11 15:00:00,P289,Theta Lens,Electronics,France,3,358,1074
+ORD1120,2024-06-09 20:00:00,P453,Alpha Phone,Accessories,United Kingdom,1,13,13
+ORD1121,2024-08-31 13:00:00,P924,Epsilon Watch,Accessories,United Kingdom,3,198,594
+ORD1122,2024-08-26 10:00:00,P652,Theta Lens,Electronics,United States,3,358,1074
+ORD1123,2024-06-20 03:00:00,P865,Eta Bag,Wearables,Pakistan,3,191,573
+ORD1124,2024-11-08 05:00:00,P323,Theta Lens,Wearables,India,3,358,1074
+ORD1125,2024-07-25 22:00:00,P862,Beta Tablet,Accessories,Pakistan,4,287,1148
+ORD1126,2024-01-29 12:00:00,P165,Eta Bag,Wearables,Canada,4,191,764
+ORD1127,2024-10-06 07:00:00,P304,Theta Lens,Wearables,France,3,358,1074
+ORD1128,2024-07-28 10:00:00,P570,Gamma Headphones,Wearables,India,2,375,750
+ORD1129,2024-08-19 13:00:00,P145,Delta Charger,Electronics,France,1,279,279
+ORD1130,2024-07-25 12:00:00,P871,Epsilon Watch,Wearables,Canada,4,198,792
+ORD1131,2024-07-21 16:00:00,P879,Delta Charger,Accessories,Canada,4,279,1116
+ORD1132,2024-02-03 06:00:00,P586,Gamma Headphones,Wearables,Pakistan,3,375,1125
+ORD1133,2024-07-23 15:00:00,P374,Theta Lens,Wearables,Germany,4,358,1432
+ORD1134,2024-10-17 10:00:00,P188,Theta Lens,Electronics,Pakistan,4,358,1432
+ORD1135,2024-04-20 22:00:00,P656,Delta Charger,Accessories,India,4,279,1116
+ORD1136,2024-08-08 03:00:00,P583,Eta Bag,Electronics,United States,3,191,573
+ORD1137,2024-01-12 03:00:00,P783,Delta Charger,Electronics,Pakistan,1,279,279
+ORD1138,2024-05-06 11:00:00,P641,Eta Bag,Accessories,Canada,1,191,191
+ORD1139,2024-06-08 12:00:00,P215,Epsilon Watch,Wearables,Germany,1,198,198
+ORD1140,2024-12-24 16:00:00,P209,Delta Charger,Wearables,United Kingdom,2,279,558
+ORD1141,2024-03-19 09:00:00,P801,Beta Tablet,Accessories,Canada,3,287,861
+ORD1142,2024-04-10 21:00:00,P242,Zeta Case,Electronics,Canada,2,415,830
+ORD1143,2024-05-29 11:00:00,P943,Gamma Headphones,Accessories,United States,1,375,375
+ORD1144,2024-12-28 03:00:00,P195,Beta Tablet,Wearables,Pakistan,1,287,287
+ORD1145,2024-11-07 02:00:00,P754,Beta Tablet,Wearables,United Kingdom,4,287,1148
+ORD1146,2024-01-13 23:00:00,P976,Theta Lens,Electronics,Canada,4,358,1432
+ORD1147,2024-03-26 03:00:00,P496,Alpha Phone,Electronics,United Kingdom,2,13,26
+ORD1148,2024-10-26 22:00:00,P150,Eta Bag,Wearables,United Kingdom,4,191,764
+ORD1149,2024-01-22 06:00:00,P888,Eta Bag,Electronics,Canada,3,191,573
+ORD1150,2024-11-08 02:00:00,P268,Alpha Phone,Electronics,India,4,13,52
+ORD1151,2024-04-12 07:00:00,P574,Epsilon Watch,Electronics,India,4,198,792
+ORD1152,2024-11-30 14:00:00,P985,Epsilon Watch,Accessories,Canada,3,198,594
+ORD1153,2024-04-17 10:00:00,P769,Gamma Headphones,Accessories,Germany,2,375,750
+ORD1154,2024-06-07 18:00:00,P141,Zeta Case,Accessories,India,3,415,1245
+ORD1155,2024-08-29 14:00:00,P837,Delta Charger,Electronics,United Kingdom,2,279,558
+ORD1156,2024-02-16 09:00:00,P244,Delta Charger,Wearables,India,2,279,558
+ORD1157,2024-07-22 15:00:00,P773,Delta Charger,Wearables,United States,3,279,837
+ORD1158,2024-07-03 23:00:00,P658,Eta Bag,Accessories,United Kingdom,3,191,573
+ORD1159,2024-10-13 09:00:00,P358,Zeta Case,Electronics,Canada,3,415,1245
+ORD1160,2024-12-29 03:00:00,P480,Delta Charger,Accessories,United States,2,279,558
+ORD1161,2024-08-30 09:00:00,P205,Theta Lens,Wearables,Pakistan,2,358,716
+ORD1162,2024-05-29 20:00:00,P987,Eta Bag,Accessories,Pakistan,1,191,191
+ORD1163,2024-05-28 05:00:00,P314,Theta Lens,Electronics,Canada,3,358,1074
+ORD1164,2024-06-01 22:00:00,P377,Zeta Case,Accessories,Pakistan,3,415,1245
+ORD1165,2024-10-24 14:00:00,P552,Delta Charger,Accessories,Pakistan,4,279,1116
+ORD1166,2024-04-27 14:00:00,P704,Eta Bag,Accessories,Pakistan,3,191,573
+ORD1167,2024-03-01 07:00:00,P554,Gamma Headphones,Accessories,Pakistan,2,375,750
+ORD1168,2024-05-02 22:00:00,P554,Gamma Headphones,Electronics,France,1,375,375
+ORD1169,2024-01-09 00:00:00,P623,Delta Charger,Wearables,United States,1,279,279
+ORD1170,2024-02-08 07:00:00,P871,Theta Lens,Accessories,India,2,358,716
+ORD1171,2024-02-02 10:00:00,P455,Epsilon Watch,Accessories,France,2,198,396
+ORD1172,2024-10-08 11:00:00,P848,Delta Charger,Accessories,India,2,279,558
+ORD1173,2024-09-20 11:00:00,P807,Delta Charger,Accessories,India,2,279,558
+ORD1174,2024-09-11 03:00:00,P963,Gamma Headphones,Electronics,United Kingdom,4,375,1500
+ORD1175,2024-06-17 05:00:00,P920,Zeta Case,Wearables,Canada,1,415,415
+ORD1176,2024-09-18 02:00:00,P817,Gamma Headphones,Electronics,United Kingdom,2,375,750
+ORD1177,2024-02-28 13:00:00,P321,Epsilon Watch,Accessories,United States,1,198,198
+ORD1178,2024-11-24 08:00:00,P796,Gamma Headphones,Electronics,India,2,375,750
+ORD1179,2024-07-01 13:00:00,P762,Gamma Headphones,Electronics,India,3,375,1125
+ORD1180,2024-12-08 14:00:00,P360,Theta Lens,Electronics,India,1,358,358
+ORD1181,2024-02-25 16:00:00,P709,Gamma Headphones,Wearables,India,2,375,750
+ORD1182,2024-06-30 13:00:00,P327,Alpha Phone,Accessories,France,1,13,13
+ORD1183,2024-09-11 15:00:00,P570,Delta Charger,Accessories,Germany,4,279,1116
+ORD1184,2024-06-29 14:00:00,P816,Epsilon Watch,Wearables,India,3,198,594
+ORD1185,2024-06-11 15:00:00,P269,Alpha Phone,Electronics,Germany,1,13,13
+ORD1186,2024-03-01 14:00:00,P402,Gamma Headphones,Accessories,France,1,375,375
+ORD1187,2024-05-19 07:00:00,P814,Beta Tablet,Accessories,United Kingdom,1,287,287
+ORD1188,2024-03-28 05:00:00,P507,Epsilon Watch,Accessories,Pakistan,2,198,396
+ORD1189,2024-04-20 18:00:00,P963,Zeta Case,Electronics,Pakistan,4,415,1660
+ORD1190,2024-09-06 08:00:00,P107,Theta Lens,Wearables,France,3,358,1074
+ORD1191,2024-08-18 13:00:00,P748,Delta Charger,Electronics,Germany,4,279,1116
+ORD1192,2024-08-09 04:00:00,P831,Eta Bag,Wearables,United Kingdom,2,191,382
+ORD1193,2024-05-12 10:00:00,P925,Beta Tablet,Wearables,United States,2,287,574
+ORD1194,2024-12-16 12:00:00,P240,Eta Bag,Accessories,France,2,191,382
+ORD1195,2024-02-01 15:00:00,P984,Epsilon Watch,Electronics,France,1,198,198
+ORD1196,2024-05-05 12:00:00,P452,Eta Bag,Electronics,Pakistan,4,191,764
+ORD1197,2024-02-13 08:00:00,P416,Eta Bag,Wearables,India,1,191,191
+ORD1198,2024-05-03 23:00:00,P419,Epsilon Watch,Wearables,Germany,2,198,396
+ORD1199,2024-12-17 12:00:00,P673,Gamma Headphones,Wearables,Pakistan,3,375,1125
+ORD1200,2024-05-13 19:00:00,P692,Epsilon Watch,Electronics,Pakistan,1,198,198
+ORD1201,2024-11-27 17:00:00,P526,Eta Bag,Accessories,United Kingdom,2,191,382
+ORD1202,2024-06-29 13:00:00,P163,Theta Lens,Electronics,Pakistan,2,358,716
+ORD1203,2024-09-12 21:00:00,P986,Theta Lens,Wearables,United States,2,358,716
+ORD1204,2024-06-15 03:00:00,P299,Beta Tablet,Accessories,France,1,287,287
+ORD1205,2024-04-07 22:00:00,P184,Epsilon Watch,Wearables,India,1,198,198
+ORD1206,2024-10-05 20:00:00,P637,Alpha Phone,Wearables,France,1,13,13
+ORD1207,2024-12-19 12:00:00,P470,Zeta Case,Wearables,India,2,415,830
+ORD1208,2024-04-06 17:00:00,P653,Theta Lens,Accessories,United States,1,358,358
+ORD1209,2024-10-11 12:00:00,P887,Alpha Phone,Accessories,Germany,4,13,52
+ORD1210,2024-04-05 06:00:00,P187,Zeta Case,Accessories,Pakistan,1,415,415
+ORD1211,2024-09-18 19:00:00,P355,Theta Lens,Electronics,France,3,358,1074
+ORD1212,2024-10-14 05:00:00,P564,Eta Bag,Electronics,India,3,191,573
+ORD1213,2024-06-13 07:00:00,P808,Delta Charger,Accessories,Germany,2,279,558
+ORD1214,2024-09-25 12:00:00,P639,Alpha Phone,Wearables,France,4,13,52
+ORD1215,2024-04-09 20:00:00,P444,Theta Lens,Accessories,Canada,1,358,358
+ORD1216,2024-01-29 09:00:00,P648,Theta Lens,Wearables,India,1,358,358
+ORD1217,2024-02-05 11:00:00,P981,Epsilon Watch,Electronics,United States,2,198,396
+ORD1218,2024-06-12 00:00:00,P531,Theta Lens,Accessories,United Kingdom,1,358,358
+ORD1219,2024-11-25 02:00:00,P894,Alpha Phone,Accessories,United States,2,13,26
+ORD1220,2024-02-16 01:00:00,P801,Epsilon Watch,Accessories,France,2,198,396
+ORD1221,2024-06-15 01:00:00,P370,Alpha Phone,Electronics,United Kingdom,4,13,52
+ORD1222,2024-09-13 20:00:00,P324,Theta Lens,Electronics,Canada,2,358,716
+ORD1223,2024-03-14 20:00:00,P792,Zeta Case,Wearables,Pakistan,4,415,1660
+ORD1224,2024-09-20 19:00:00,P286,Theta Lens,Accessories,Canada,4,358,1432
+ORD1225,2024-04-21 01:00:00,P402,Epsilon Watch,Electronics,United Kingdom,4,198,792
+ORD1226,2024-10-22 01:00:00,P311,Alpha Phone,Electronics,United States,1,13,13
+ORD1227,2024-07-30 06:00:00,P645,Alpha Phone,Electronics,United Kingdom,4,13,52
+ORD1228,2024-07-18 13:00:00,P364,Gamma Headphones,Wearables,India,3,375,1125
+ORD1229,2024-03-05 08:00:00,P691,Zeta Case,Electronics,Germany,4,415,1660
+ORD1230,2024-06-18 11:00:00,P940,Beta Tablet,Wearables,India,2,287,574
+ORD1231,2024-11-08 04:00:00,P845,Eta Bag,Electronics,United Kingdom,4,191,764
+ORD1232,2024-01-08 17:00:00,P952,Beta Tablet,Accessories,Canada,3,287,861
+ORD1233,2024-10-03 07:00:00,P121,Delta Charger,Electronics,United Kingdom,1,279,279
+ORD1234,2024-06-28 01:00:00,P509,Beta Tablet,Wearables,Canada,2,287,574
+ORD1235,2024-09-19 17:00:00,P297,Delta Charger,Electronics,Germany,1,279,279
+ORD1236,2024-08-30 21:00:00,P925,Delta Charger,Accessories,Pakistan,4,279,1116
+ORD1237,2024-06-06 00:00:00,P740,Alpha Phone,Electronics,Canada,2,13,26
+ORD1238,2024-04-22 10:00:00,P387,Epsilon Watch,Electronics,Pakistan,1,198,198
+ORD1239,2024-08-16 19:00:00,P606,Eta Bag,Electronics,France,3,191,573
+ORD1240,2024-02-21 16:00:00,P644,Theta Lens,Wearables,Canada,2,358,716
+ORD1241,2024-08-01 20:00:00,P545,Gamma Headphones,Accessories,India,1,375,375
+ORD1242,2024-02-04 09:00:00,P526,Theta Lens,Accessories,Germany,4,358,1432
+ORD1243,2024-08-25 08:00:00,P149,Theta Lens,Accessories,United Kingdom,4,358,1432
+ORD1244,2024-08-17 17:00:00,P506,Theta Lens,Wearables,India,3,358,1074
+ORD1245,2024-01-31 03:00:00,P413,Gamma Headphones,Accessories,India,3,375,1125
+ORD1246,2024-10-03 05:00:00,P835,Eta Bag,Accessories,United States,2,191,382
+ORD1247,2024-05-31 14:00:00,P877,Epsilon Watch,Electronics,India,3,198,594
+ORD1248,2024-10-14 16:00:00,P774,Alpha Phone,Electronics,India,3,13,39
+ORD1249,2024-01-16 02:00:00,P127,Gamma Headphones,Electronics,Pakistan,1,375,375
+ORD1250,2024-03-06 12:00:00,P856,Zeta Case,Accessories,United Kingdom,1,415,415
+ORD1251,2024-06-29 08:00:00,P456,Beta Tablet,Electronics,France,2,287,574
+ORD1252,2024-03-09 12:00:00,P474,Delta Charger,Electronics,Germany,2,279,558
+ORD1253,2024-04-30 23:00:00,P949,Eta Bag,Electronics,France,1,191,191
+ORD1254,2024-08-29 01:00:00,P879,Beta Tablet,Electronics,France,1,287,287
+ORD1255,2024-02-22 23:00:00,P145,Delta Charger,Wearables,France,4,279,1116
+ORD1256,2024-09-04 10:00:00,P423,Beta Tablet,Accessories,Germany,2,287,574
+ORD1257,2024-02-07 18:00:00,P773,Epsilon Watch,Wearables,France,3,198,594
+ORD1258,2024-03-04 10:00:00,P584,Beta Tablet,Accessories,Germany,3,287,861
+ORD1259,2024-08-02 07:00:00,P331,Theta Lens,Wearables,United States,3,358,1074
+ORD1260,2024-10-16 18:00:00,P571,Alpha Phone,Electronics,United States,3,13,39
+ORD1261,2024-03-03 16:00:00,P879,Theta Lens,Accessories,India,2,358,716
+ORD1262,2024-04-19 03:00:00,P300,Eta Bag,Wearables,India,4,191,764
+ORD1263,2024-12-03 16:00:00,P770,Eta Bag,Accessories,France,2,191,382
+ORD1264,2024-12-27 18:00:00,P760,Eta Bag,Wearables,United Kingdom,4,191,764
+ORD1265,2024-07-31 09:00:00,P896,Beta Tablet,Electronics,Pakistan,2,287,574
+ORD1266,2024-06-12 22:00:00,P367,Theta Lens,Electronics,United Kingdom,1,358,358
+ORD1267,2024-05-06 15:00:00,P294,Epsilon Watch,Wearables,Canada,4,198,792
+ORD1268,2024-08-11 08:00:00,P592,Theta Lens,Electronics,Canada,1,358,358
+ORD1269,2024-08-03 00:00:00,P577,Theta Lens,Wearables,United States,4,358,1432
+ORD1270,2024-04-17 16:00:00,P468,Epsilon Watch,Wearables,Pakistan,1,198,198
+ORD1271,2024-01-09 05:00:00,P800,Gamma Headphones,Wearables,Germany,1,375,375
+ORD1272,2024-02-25 18:00:00,P818,Alpha Phone,Accessories,Canada,3,13,39
+ORD1273,2024-12-15 12:00:00,P320,Alpha Phone,Wearables,Germany,4,13,52
+ORD1274,2024-06-01 11:00:00,P815,Delta Charger,Electronics,United States,2,279,558
+ORD1275,2024-06-25 03:00:00,P307,Eta Bag,Accessories,Germany,1,191,191
+ORD1276,2024-06-19 17:00:00,P466,Epsilon Watch,Electronics,Germany,1,198,198
+ORD1277,2024-10-12 03:00:00,P124,Delta Charger,Wearables,Canada,4,279,1116
+ORD1278,2024-01-24 10:00:00,P406,Beta Tablet,Wearables,Pakistan,3,287,861
+ORD1279,2024-01-31 20:00:00,P961,Epsilon Watch,Wearables,United Kingdom,1,198,198
+ORD1280,2024-04-10 22:00:00,P497,Zeta Case,Wearables,United States,2,415,830
+ORD1281,2024-06-26 23:00:00,P738,Theta Lens,Electronics,Germany,2,358,716
+ORD1282,2024-09-01 22:00:00,P197,Zeta Case,Electronics,India,1,415,415
+ORD1283,2024-06-28 13:00:00,P671,Epsilon Watch,Wearables,Canada,4,198,792
+ORD1284,2024-06-10 04:00:00,P434,Theta Lens,Accessories,United States,3,358,1074
+ORD1285,2024-12-08 20:00:00,P768,Delta Charger,Electronics,India,1,279,279
+ORD1286,2024-02-28 19:00:00,P934,Theta Lens,Wearables,Germany,3,358,1074
+ORD1287,2024-07-27 23:00:00,P577,Gamma Headphones,Wearables,United Kingdom,2,375,750
+ORD1288,2024-07-16 15:00:00,P192,Beta Tablet,Accessories,France,1,287,287
+ORD1289,2024-06-21 03:00:00,P528,Delta Charger,Wearables,Canada,2,279,558
+ORD1290,2024-10-21 12:00:00,P210,Beta Tablet,Electronics,India,1,287,287
+ORD1291,2024-04-07 10:00:00,P504,Alpha Phone,Electronics,Canada,1,13,13
+ORD1292,2024-12-14 20:00:00,P154,Theta Lens,Electronics,Germany,4,358,1432
+ORD1293,2024-05-01 09:00:00,P675,Eta Bag,Accessories,Germany,3,191,573
+ORD1294,2024-07-17 07:00:00,P379,Beta Tablet,Electronics,United Kingdom,1,287,287
+ORD1295,2024-07-09 01:00:00,P281,Eta Bag,Electronics,Germany,4,191,764
+ORD1296,2024-11-06 20:00:00,P115,Alpha Phone,Wearables,United States,3,13,39
+ORD1297,2024-06-09 18:00:00,P898,Gamma Headphones,Wearables,France,4,375,1500
+ORD1298,2024-04-13 00:00:00,P852,Zeta Case,Wearables,Pakistan,3,415,1245
+ORD1299,2024-01-08 10:00:00,P829,Gamma Headphones,Wearables,India,2,375,750
+ORD1300,2024-05-12 11:00:00,P152,Zeta Case,Wearables,Canada,3,415,1245
+ORD1301,2024-10-28 11:00:00,P414,Eta Bag,Accessories,United Kingdom,3,191,573
+ORD1302,2024-01-04 22:00:00,P973,Alpha Phone,Accessories,Germany,3,13,39
+ORD1303,2024-11-23 03:00:00,P620,Alpha Phone,Wearables,France,1,13,13
+ORD1304,2024-07-17 07:00:00,P215,Theta Lens,Accessories,India,2,358,716
+ORD1305,2024-02-21 04:00:00,P226,Epsilon Watch,Electronics,United States,1,198,198
+ORD1306,2024-04-20 05:00:00,P336,Epsilon Watch,Wearables,United Kingdom,2,198,396
+ORD1307,2024-07-21 21:00:00,P974,Delta Charger,Electronics,United Kingdom,1,279,279
+ORD1308,2024-04-25 22:00:00,P252,Delta Charger,Wearables,United Kingdom,1,279,279
+ORD1309,2024-02-09 01:00:00,P911,Zeta Case,Accessories,Germany,4,415,1660
+ORD1310,2024-08-31 15:00:00,P709,Epsilon Watch,Wearables,India,1,198,198
+ORD1311,2024-09-02 05:00:00,P928,Beta Tablet,Electronics,United States,4,287,1148
+ORD1312,2024-02-13 04:00:00,P842,Zeta Case,Accessories,Pakistan,1,415,415
+ORD1313,2024-04-12 07:00:00,P398,Zeta Case,Accessories,France,4,415,1660
+ORD1314,2024-03-30 04:00:00,P844,Alpha Phone,Accessories,France,2,13,26
+ORD1315,2024-08-28 11:00:00,P252,Delta Charger,Electronics,France,3,279,837
+ORD1316,2024-09-23 23:00:00,P361,Eta Bag,Wearables,United States,2,191,382
+ORD1317,2024-09-22 14:00:00,P290,Epsilon Watch,Accessories,Pakistan,2,198,396
+ORD1318,2024-12-08 17:00:00,P219,Beta Tablet,Wearables,United Kingdom,2,287,574
+ORD1319,2024-10-07 11:00:00,P180,Alpha Phone,Accessories,Germany,3,13,39
+ORD1320,2024-04-27 00:00:00,P268,Epsilon Watch,Electronics,France,2,198,396
+ORD1321,2024-02-09 02:00:00,P207,Delta Charger,Wearables,France,3,279,837
+ORD1322,2024-08-12 06:00:00,P442,Theta Lens,Electronics,Canada,4,358,1432
+ORD1323,2024-11-30 05:00:00,P164,Epsilon Watch,Electronics,Canada,2,198,396
+ORD1324,2024-12-21 20:00:00,P155,Theta Lens,Wearables,Germany,2,358,716
+ORD1325,2024-03-25 20:00:00,P989,Beta Tablet,Wearables,United States,1,287,287
+ORD1326,2024-03-27 20:00:00,P178,Delta Charger,Wearables,Pakistan,2,279,558
+ORD1327,2024-01-14 15:00:00,P166,Beta Tablet,Accessories,United States,1,287,287
+ORD1328,2024-02-21 13:00:00,P127,Epsilon Watch,Wearables,Germany,1,198,198
+ORD1329,2024-07-21 15:00:00,P219,Beta Tablet,Electronics,France,4,287,1148
+ORD1330,2024-07-18 09:00:00,P574,Delta Charger,Wearables,United States,1,279,279
+ORD1331,2024-05-15 16:00:00,P843,Gamma Headphones,Accessories,India,2,375,750
+ORD1332,2024-04-23 19:00:00,P760,Beta Tablet,Electronics,Canada,4,287,1148
+ORD1333,2024-10-29 18:00:00,P621,Alpha Phone,Accessories,United States,4,13,52
+ORD1334,2024-06-16 14:00:00,P176,Epsilon Watch,Accessories,France,1,198,198
+ORD1335,2024-10-22 01:00:00,P796,Theta Lens,Electronics,Germany,1,358,358
+ORD1336,2024-12-17 17:00:00,P133,Beta Tablet,Accessories,France,2,287,574
+ORD1337,2024-04-25 08:00:00,P667,Delta Charger,Accessories,Pakistan,3,279,837
+ORD1338,2024-03-14 17:00:00,P467,Beta Tablet,Electronics,Germany,4,287,1148
+ORD1339,2024-12-13 12:00:00,P893,Eta Bag,Electronics,Pakistan,1,191,191
+ORD1340,2024-08-19 21:00:00,P376,Delta Charger,Wearables,Canada,1,279,279
+ORD1341,2024-04-16 08:00:00,P673,Theta Lens,Accessories,Germany,2,358,716
+ORD1342,2024-08-14 22:00:00,P495,Beta Tablet,Accessories,United Kingdom,4,287,1148
+ORD1343,2024-07-06 20:00:00,P569,Alpha Phone,Accessories,France,1,13,13
+ORD1344,2024-11-26 07:00:00,P943,Epsilon Watch,Accessories,United Kingdom,2,198,396
+ORD1345,2024-04-03 11:00:00,P740,Zeta Case,Accessories,France,1,415,415
+ORD1346,2024-12-27 12:00:00,P472,Theta Lens,Accessories,Pakistan,1,358,358
+ORD1347,2024-12-07 18:00:00,P502,Eta Bag,Wearables,India,4,191,764
+ORD1348,2024-03-06 16:00:00,P733,Theta Lens,Wearables,India,1,358,358
+ORD1349,2024-03-01 20:00:00,P411,Zeta Case,Electronics,United States,2,415,830
+ORD1350,2024-07-13 08:00:00,P250,Gamma Headphones,Wearables,United States,4,375,1500
+ORD1351,2024-01-17 12:00:00,P520,Delta Charger,Wearables,India,3,279,837
+ORD1352,2024-04-19 10:00:00,P161,Beta Tablet,Electronics,Canada,1,287,287
+ORD1353,2024-06-07 21:00:00,P252,Delta Charger,Wearables,United States,2,279,558
+ORD1354,2024-12-19 07:00:00,P478,Gamma Headphones,Accessories,Canada,4,375,1500
+ORD1355,2024-12-28 14:00:00,P816,Alpha Phone,Wearables,Pakistan,2,13,26
+ORD1356,2024-02-25 02:00:00,P802,Beta Tablet,Accessories,Canada,3,287,861
+ORD1357,2024-11-21 20:00:00,P334,Epsilon Watch,Wearables,United States,3,198,594
+ORD1358,2024-02-03 09:00:00,P479,Gamma Headphones,Electronics,Pakistan,3,375,1125
+ORD1359,2024-09-30 08:00:00,P238,Theta Lens,Electronics,United Kingdom,1,358,358
+ORD1360,2024-11-04 13:00:00,P778,Delta Charger,Wearables,Canada,4,279,1116
+ORD1361,2024-11-21 11:00:00,P321,Theta Lens,Accessories,United States,4,358,1432
+ORD1362,2024-03-22 20:00:00,P818,Zeta Case,Accessories,France,1,415,415
+ORD1363,2024-11-22 12:00:00,P857,Alpha Phone,Electronics,Germany,4,13,52
+ORD1364,2024-02-12 12:00:00,P719,Beta Tablet,Electronics,India,4,287,1148
+ORD1365,2024-07-08 02:00:00,P396,Zeta Case,Wearables,Canada,3,415,1245
+ORD1366,2024-06-20 00:00:00,P956,Epsilon Watch,Electronics,United Kingdom,2,198,396
+ORD1367,2024-04-25 09:00:00,P716,Gamma Headphones,Accessories,United Kingdom,2,375,750
+ORD1368,2024-01-09 23:00:00,P680,Epsilon Watch,Electronics,United Kingdom,4,198,792
+ORD1369,2024-10-08 22:00:00,P869,Theta Lens,Electronics,Germany,1,358,358
+ORD1370,2024-05-02 15:00:00,P892,Delta Charger,Electronics,United States,4,279,1116
+ORD1371,2024-08-29 15:00:00,P169,Alpha Phone,Wearables,Canada,4,13,52
+ORD1372,2024-05-29 09:00:00,P892,Gamma Headphones,Wearables,Pakistan,3,375,1125
+ORD1373,2024-05-16 04:00:00,P787,Theta Lens,Electronics,Pakistan,2,358,716
+ORD1374,2024-11-19 00:00:00,P285,Eta Bag,Accessories,France,3,191,573
+ORD1375,2024-02-04 08:00:00,P376,Eta Bag,Accessories,India,1,191,191
+ORD1376,2024-09-25 07:00:00,P776,Theta Lens,Accessories,Pakistan,4,358,1432
+ORD1377,2024-09-29 04:00:00,P294,Alpha Phone,Wearables,France,2,13,26
+ORD1378,2024-05-18 06:00:00,P506,Gamma Headphones,Electronics,India,1,375,375
+ORD1379,2024-04-05 00:00:00,P719,Alpha Phone,Electronics,United States,4,13,52
+ORD1380,2024-01-02 14:00:00,P684,Alpha Phone,Accessories,Pakistan,3,13,39
+ORD1381,2024-12-07 22:00:00,P917,Eta Bag,Accessories,Canada,3,191,573
+ORD1382,2024-12-11 16:00:00,P200,Theta Lens,Electronics,Pakistan,1,358,358
+ORD1383,2024-03-28 10:00:00,P365,Beta Tablet,Wearables,India,4,287,1148
+ORD1384,2024-01-12 10:00:00,P985,Zeta Case,Electronics,Germany,3,415,1245
+ORD1385,2024-02-14 07:00:00,P611,Epsilon Watch,Electronics,United States,4,198,792
+ORD1386,2024-01-25 03:00:00,P323,Alpha Phone,Accessories,Canada,4,13,52
+ORD1387,2024-10-30 14:00:00,P360,Theta Lens,Accessories,Canada,1,358,358
+ORD1388,2024-11-21 13:00:00,P404,Eta Bag,Electronics,India,1,191,191
+ORD1389,2024-02-25 00:00:00,P598,Epsilon Watch,Electronics,India,4,198,792
+ORD1390,2024-09-29 09:00:00,P355,Zeta Case,Electronics,Germany,3,415,1245
+ORD1391,2024-03-06 06:00:00,P659,Delta Charger,Accessories,India,2,279,558
+ORD1392,2024-05-14 04:00:00,P500,Eta Bag,Accessories,Germany,2,191,382
+ORD1393,2024-08-06 16:00:00,P648,Delta Charger,Electronics,Canada,3,279,837
+ORD1394,2024-09-19 12:00:00,P239,Theta Lens,Accessories,Pakistan,4,358,1432
+ORD1395,2024-11-15 15:00:00,P660,Alpha Phone,Wearables,France,1,13,13
+ORD1396,2024-01-17 17:00:00,P931,Beta Tablet,Electronics,Germany,3,287,861
+ORD1397,2024-03-12 23:00:00,P221,Theta Lens,Wearables,Germany,4,358,1432
+ORD1398,2024-04-12 19:00:00,P394,Gamma Headphones,Electronics,France,2,375,750
+ORD1399,2024-04-23 14:00:00,P723,Gamma Headphones,Electronics,Pakistan,2,375,750
+ORD1400,2024-12-30 21:00:00,P655,Eta Bag,Electronics,Germany,4,191,764
+ORD1401,2024-10-10 11:00:00,P706,Beta Tablet,Electronics,United States,1,287,287
+ORD1402,2024-04-26 23:00:00,P603,Epsilon Watch,Electronics,United States,2,198,396
+ORD1403,2024-12-20 18:00:00,P713,Gamma Headphones,Accessories,United Kingdom,2,375,750
+ORD1404,2024-07-01 15:00:00,P647,Beta Tablet,Accessories,Germany,4,287,1148
+ORD1405,2024-07-01 21:00:00,P166,Theta Lens,Wearables,France,1,358,358
+ORD1406,2024-06-07 12:00:00,P775,Beta Tablet,Accessories,Pakistan,2,287,574
+ORD1407,2024-02-22 17:00:00,P501,Alpha Phone,Accessories,United Kingdom,1,13,13
+ORD1408,2024-12-07 06:00:00,P146,Zeta Case,Accessories,Pakistan,4,415,1660
+ORD1409,2024-01-06 23:00:00,P467,Eta Bag,Electronics,France,3,191,573
+ORD1410,2024-03-04 14:00:00,P491,Beta Tablet,Wearables,United States,2,287,574
+ORD1411,2024-03-24 18:00:00,P177,Zeta Case,Electronics,Canada,2,415,830
+ORD1412,2024-04-11 11:00:00,P995,Epsilon Watch,Wearables,Canada,1,198,198
+ORD1413,2024-02-18 20:00:00,P299,Eta Bag,Wearables,India,4,191,764
+ORD1414,2024-01-07 01:00:00,P397,Beta Tablet,Wearables,India,3,287,861
+ORD1415,2024-09-04 02:00:00,P496,Theta Lens,Accessories,Pakistan,2,358,716
+ORD1416,2024-12-19 12:00:00,P848,Epsilon Watch,Electronics,Germany,2,198,396
+ORD1417,2024-02-14 17:00:00,P767,Eta Bag,Wearables,Germany,3,191,573
+ORD1418,2024-04-18 19:00:00,P793,Gamma Headphones,Electronics,Canada,3,375,1125
+ORD1419,2024-07-03 10:00:00,P313,Theta Lens,Accessories,Pakistan,2,358,716
+ORD1420,2024-12-04 15:00:00,P860,Zeta Case,Wearables,United States,2,415,830
+ORD1421,2024-09-10 13:00:00,P845,Beta Tablet,Wearables,United Kingdom,3,287,861
+ORD1422,2024-10-06 23:00:00,P517,Theta Lens,Wearables,United States,3,358,1074
+ORD1423,2024-07-31 15:00:00,P590,Eta Bag,Electronics,Germany,3,191,573
+ORD1424,2024-06-01 10:00:00,P133,Gamma Headphones,Wearables,Canada,1,375,375
+ORD1425,2024-03-13 23:00:00,P783,Epsilon Watch,Electronics,United Kingdom,2,198,396
+ORD1426,2024-11-11 02:00:00,P963,Delta Charger,Accessories,Canada,3,279,837
+ORD1427,2024-10-20 23:00:00,P524,Epsilon Watch,Wearables,India,4,198,792
+ORD1428,2024-01-10 03:00:00,P585,Theta Lens,Accessories,Germany,3,358,1074
+ORD1429,2024-09-18 06:00:00,P548,Theta Lens,Wearables,Pakistan,2,358,716
+ORD1430,2024-01-31 19:00:00,P174,Beta Tablet,Accessories,India,3,287,861
+ORD1431,2024-09-26 17:00:00,P657,Theta Lens,Electronics,India,1,358,358
+ORD1432,2024-10-28 23:00:00,P748,Delta Charger,Electronics,Canada,1,279,279
+ORD1433,2024-02-17 17:00:00,P934,Zeta Case,Accessories,India,3,415,1245
+ORD1434,2024-06-07 15:00:00,P935,Eta Bag,Wearables,India,4,191,764
+ORD1435,2024-02-15 08:00:00,P542,Delta Charger,Accessories,India,4,279,1116
+ORD1436,2024-07-26 00:00:00,P962,Delta Charger,Wearables,Canada,3,279,837
+ORD1437,2024-12-04 02:00:00,P575,Delta Charger,Accessories,United Kingdom,1,279,279
+ORD1438,2024-01-30 07:00:00,P677,Eta Bag,Electronics,France,4,191,764
+ORD1439,2024-05-25 00:00:00,P641,Delta Charger,Electronics,India,2,279,558
+ORD1440,2024-12-21 12:00:00,P997,Gamma Headphones,Accessories,India,2,375,750
+ORD1441,2024-04-19 18:00:00,P763,Gamma Headphones,Wearables,Germany,4,375,1500
+ORD1442,2024-02-18 23:00:00,P207,Beta Tablet,Wearables,United Kingdom,3,287,861
+ORD1443,2024-06-27 11:00:00,P164,Delta Charger,Electronics,Canada,3,279,837
+ORD1444,2024-07-04 21:00:00,P468,Alpha Phone,Accessories,France,2,13,26
+ORD1445,2024-08-29 23:00:00,P563,Alpha Phone,Wearables,Germany,4,13,52
+ORD1446,2024-04-24 20:00:00,P701,Zeta Case,Accessories,Canada,2,415,830
+ORD1447,2024-12-14 11:00:00,P532,Alpha Phone,Electronics,Canada,3,13,39
+ORD1448,2024-07-09 07:00:00,P562,Epsilon Watch,Accessories,United States,4,198,792
+ORD1449,2024-04-14 23:00:00,P928,Eta Bag,Electronics,Canada,3,191,573
+ORD1450,2024-12-16 05:00:00,P401,Zeta Case,Electronics,France,1,415,415
+ORD1451,2024-12-03 09:00:00,P543,Delta Charger,Accessories,United Kingdom,2,279,558
+ORD1452,2024-07-01 01:00:00,P601,Beta Tablet,Electronics,India,2,287,574
+ORD1453,2024-01-10 19:00:00,P521,Theta Lens,Accessories,United States,4,358,1432
+ORD1454,2024-08-05 15:00:00,P970,Eta Bag,Accessories,France,3,191,573
+ORD1455,2024-07-21 02:00:00,P965,Epsilon Watch,Accessories,Germany,2,198,396
+ORD1456,2024-02-24 05:00:00,P561,Alpha Phone,Accessories,Pakistan,3,13,39
+ORD1457,2024-08-19 13:00:00,P505,Alpha Phone,Electronics,India,3,13,39
+ORD1458,2024-11-02 12:00:00,P629,Gamma Headphones,Wearables,Germany,2,375,750
+ORD1459,2024-02-08 19:00:00,P262,Beta Tablet,Wearables,France,2,287,574
+ORD1460,2024-09-21 06:00:00,P482,Eta Bag,Wearables,France,4,191,764
+ORD1461,2024-02-21 22:00:00,P295,Beta Tablet,Wearables,Germany,3,287,861
+ORD1462,2024-09-30 10:00:00,P229,Gamma Headphones,Accessories,United Kingdom,1,375,375
+ORD1463,2024-06-01 19:00:00,P185,Theta Lens,Wearables,Germany,3,358,1074
+ORD1464,2024-01-03 05:00:00,P627,Eta Bag,Accessories,United Kingdom,3,191,573
+ORD1465,2024-12-18 00:00:00,P100,Beta Tablet,Electronics,Germany,3,287,861
+ORD1466,2024-03-01 01:00:00,P680,Delta Charger,Wearables,France,3,279,837
+ORD1467,2024-08-05 08:00:00,P488,Epsilon Watch,Electronics,United Kingdom,4,198,792
+ORD1468,2024-03-07 22:00:00,P429,Zeta Case,Wearables,United Kingdom,2,415,830
+ORD1469,2024-12-06 01:00:00,P791,Theta Lens,Accessories,Pakistan,2,358,716
+ORD1470,2024-09-26 08:00:00,P584,Eta Bag,Wearables,Canada,1,191,191
+ORD1471,2024-10-20 02:00:00,P759,Theta Lens,Accessories,United Kingdom,3,358,1074
+ORD1472,2024-06-06 22:00:00,P737,Alpha Phone,Accessories,France,2,13,26
+ORD1473,2024-06-19 16:00:00,P128,Beta Tablet,Electronics,Pakistan,2,287,574
+ORD1474,2024-08-19 18:00:00,P293,Epsilon Watch,Wearables,Pakistan,3,198,594
+ORD1475,2024-10-13 17:00:00,P612,Alpha Phone,Electronics,Pakistan,2,13,26
+ORD1476,2024-11-05 15:00:00,P977,Gamma Headphones,Accessories,India,2,375,750
+ORD1477,2024-01-07 18:00:00,P238,Beta Tablet,Accessories,France,2,287,574
+ORD1478,2024-08-30 00:00:00,P194,Theta Lens,Accessories,Canada,2,358,716
+ORD1479,2024-02-09 20:00:00,P946,Alpha Phone,Electronics,India,1,13,13
+ORD1480,2024-04-15 17:00:00,P969,Beta Tablet,Accessories,United Kingdom,4,287,1148
+ORD1481,2024-10-29 17:00:00,P250,Beta Tablet,Accessories,Canada,1,287,287
+ORD1482,2024-04-01 09:00:00,P461,Beta Tablet,Electronics,Pakistan,2,287,574
+ORD1483,2024-10-17 19:00:00,P663,Epsilon Watch,Electronics,India,3,198,594
+ORD1484,2024-06-17 09:00:00,P275,Gamma Headphones,Wearables,Canada,1,375,375
+ORD1485,2024-03-25 01:00:00,P393,Theta Lens,Electronics,Pakistan,3,358,1074
+ORD1486,2024-05-01 21:00:00,P455,Gamma Headphones,Electronics,India,3,375,1125
+ORD1487,2024-07-12 05:00:00,P676,Epsilon Watch,Accessories,Pakistan,3,198,594
+ORD1488,2024-10-06 02:00:00,P376,Zeta Case,Electronics,United States,2,415,830
+ORD1489,2024-08-09 14:00:00,P470,Zeta Case,Accessories,France,1,415,415
+ORD1490,2024-12-06 05:00:00,P360,Eta Bag,Electronics,United Kingdom,4,191,764
+ORD1491,2024-11-12 20:00:00,P782,Beta Tablet,Accessories,Pakistan,2,287,574
+ORD1492,2024-10-01 10:00:00,P237,Epsilon Watch,Wearables,United States,4,198,792
+ORD1493,2024-08-08 00:00:00,P307,Eta Bag,Accessories,India,1,191,191
+ORD1494,2024-04-15 22:00:00,P324,Eta Bag,Wearables,United Kingdom,1,191,191
+ORD1495,2024-05-30 12:00:00,P914,Epsilon Watch,Wearables,Canada,4,198,792
+ORD1496,2024-02-13 06:00:00,P949,Zeta Case,Electronics,United Kingdom,4,415,1660
+ORD1497,2024-05-16 16:00:00,P549,Eta Bag,Accessories,Pakistan,4,191,764
+ORD1498,2024-12-04 12:00:00,P240,Epsilon Watch,Electronics,Canada,4,198,792
+ORD1499,2024-06-04 00:00:00,P779,Theta Lens,Accessories,Pakistan,1,358,358
+ORD1500,2024-02-11 18:00:00,P542,Beta Tablet,Electronics,United States,4,287,1148
+ORD1501,2024-08-25 09:00:00,P863,Gamma Headphones,Wearables,Germany,3,375,1125
+ORD1502,2024-12-17 16:00:00,P423,Alpha Phone,Electronics,India,1,13,13
+ORD1503,2024-11-12 21:00:00,P997,Alpha Phone,Accessories,India,1,13,13
+ORD1504,2024-04-10 14:00:00,P825,Delta Charger,Electronics,United Kingdom,4,279,1116
+ORD1505,2024-06-14 16:00:00,P301,Beta Tablet,Wearables,Canada,2,287,574
+ORD1506,2024-07-12 06:00:00,P752,Delta Charger,Wearables,Canada,4,279,1116
+ORD1507,2024-03-31 05:00:00,P357,Delta Charger,Wearables,Germany,1,279,279
+ORD1508,2024-04-08 09:00:00,P414,Epsilon Watch,Accessories,Germany,2,198,396
+ORD1509,2024-03-27 20:00:00,P325,Theta Lens,Electronics,United States,2,358,716
+ORD1510,2024-12-29 12:00:00,P713,Eta Bag,Wearables,Pakistan,2,191,382
+ORD1511,2024-09-29 08:00:00,P336,Delta Charger,Accessories,United Kingdom,3,279,837
+ORD1512,2024-11-02 18:00:00,P674,Gamma Headphones,Wearables,Canada,4,375,1500
+ORD1513,2024-10-25 20:00:00,P623,Eta Bag,Wearables,Pakistan,4,191,764
+ORD1514,2024-12-16 21:00:00,P774,Alpha Phone,Accessories,France,3,13,39
+ORD1515,2024-02-08 07:00:00,P993,Epsilon Watch,Wearables,Canada,1,198,198
+ORD1516,2024-11-17 17:00:00,P107,Delta Charger,Wearables,India,4,279,1116
+ORD1517,2024-01-25 14:00:00,P990,Beta Tablet,Accessories,Canada,3,287,861
+ORD1518,2024-06-22 10:00:00,P198,Epsilon Watch,Electronics,Germany,3,198,594
+ORD1519,2024-08-04 09:00:00,P573,Gamma Headphones,Electronics,United Kingdom,3,375,1125
+ORD1520,2024-05-10 02:00:00,P406,Beta Tablet,Accessories,United Kingdom,4,287,1148
+ORD1521,2024-02-23 06:00:00,P674,Zeta Case,Accessories,Germany,4,415,1660
+ORD1522,2024-03-11 13:00:00,P748,Beta Tablet,Electronics,Germany,3,287,861
+ORD1523,2024-10-28 21:00:00,P873,Zeta Case,Electronics,Pakistan,3,415,1245
+ORD1524,2024-04-26 20:00:00,P461,Beta Tablet,Wearables,Canada,3,287,861
+ORD1525,2024-04-23 04:00:00,P938,Delta Charger,Wearables,India,2,279,558
+ORD1526,2024-12-03 16:00:00,P389,Eta Bag,Electronics,France,2,191,382
+ORD1527,2024-02-22 02:00:00,P283,Beta Tablet,Accessories,United States,3,287,861
+ORD1528,2024-11-30 16:00:00,P440,Eta Bag,Electronics,Pakistan,1,191,191
+ORD1529,2024-12-02 08:00:00,P575,Zeta Case,Wearables,France,2,415,830
+ORD1530,2024-08-06 10:00:00,P700,Theta Lens,Wearables,Canada,3,358,1074
+ORD1531,2024-03-01 17:00:00,P848,Beta Tablet,Wearables,Germany,4,287,1148
+ORD1532,2024-02-26 10:00:00,P302,Zeta Case,Accessories,Canada,3,415,1245
+ORD1533,2024-04-13 19:00:00,P372,Theta Lens,Accessories,France,2,358,716
+ORD1534,2024-07-29 12:00:00,P943,Eta Bag,Wearables,Germany,2,191,382
+ORD1535,2024-02-26 23:00:00,P495,Beta Tablet,Accessories,Germany,3,287,861
+ORD1536,2024-06-15 15:00:00,P317,Eta Bag,Accessories,United Kingdom,3,191,573
+ORD1537,2024-02-12 07:00:00,P986,Alpha Phone,Wearables,Canada,1,13,13
+ORD1538,2024-07-16 18:00:00,P503,Epsilon Watch,Accessories,Germany,3,198,594
+ORD1539,2024-01-08 09:00:00,P985,Delta Charger,Wearables,Germany,2,279,558
+ORD1540,2024-09-15 12:00:00,P926,Epsilon Watch,Accessories,Canada,3,198,594
+ORD1541,2024-01-21 03:00:00,P914,Epsilon Watch,Wearables,France,4,198,792
+ORD1542,2024-03-12 02:00:00,P623,Alpha Phone,Electronics,United Kingdom,4,13,52
+ORD1543,2024-03-04 13:00:00,P817,Epsilon Watch,Electronics,Germany,3,198,594
+ORD1544,2024-10-30 04:00:00,P963,Theta Lens,Electronics,United States,2,358,716
+ORD1545,2024-01-20 23:00:00,P341,Delta Charger,Accessories,Germany,2,279,558
+ORD1546,2024-06-05 20:00:00,P133,Gamma Headphones,Wearables,Pakistan,1,375,375
+ORD1547,2024-08-03 16:00:00,P388,Theta Lens,Electronics,Pakistan,4,358,1432
+ORD1548,2024-07-07 17:00:00,P672,Alpha Phone,Electronics,France,4,13,52
+ORD1549,2024-09-05 14:00:00,P592,Delta Charger,Wearables,Pakistan,4,279,1116
+ORD1550,2024-10-20 01:00:00,P172,Epsilon Watch,Wearables,United States,2,198,396
+ORD1551,2024-05-23 09:00:00,P604,Delta Charger,Accessories,Canada,2,279,558
+ORD1552,2024-10-29 11:00:00,P256,Theta Lens,Accessories,France,4,358,1432
+ORD1553,2024-04-26 21:00:00,P554,Delta Charger,Accessories,Pakistan,3,279,837
+ORD1554,2024-12-25 05:00:00,P617,Theta Lens,Electronics,France,3,358,1074
+ORD1555,2024-07-03 11:00:00,P672,Alpha Phone,Electronics,Pakistan,2,13,26
+ORD1556,2024-09-25 08:00:00,P470,Zeta Case,Wearables,United Kingdom,2,415,830
+ORD1557,2024-11-15 03:00:00,P467,Epsilon Watch,Accessories,United Kingdom,3,198,594
+ORD1558,2024-10-16 02:00:00,P710,Beta Tablet,Wearables,United States,4,287,1148
+ORD1559,2024-11-06 08:00:00,P773,Beta Tablet,Wearables,France,2,287,574
+ORD1560,2024-07-14 01:00:00,P826,Zeta Case,Electronics,France,4,415,1660
+ORD1561,2024-01-16 01:00:00,P399,Zeta Case,Electronics,United Kingdom,1,415,415
+ORD1562,2024-06-28 08:00:00,P481,Epsilon Watch,Wearables,Pakistan,2,198,396
+ORD1563,2024-03-07 04:00:00,P397,Alpha Phone,Electronics,Pakistan,4,13,52
+ORD1564,2024-11-20 13:00:00,P574,Epsilon Watch,Accessories,Canada,4,198,792
+ORD1565,2024-03-27 00:00:00,P214,Theta Lens,Wearables,United Kingdom,4,358,1432
+ORD1566,2024-03-24 07:00:00,P486,Alpha Phone,Wearables,Pakistan,2,13,26
+ORD1567,2024-04-01 10:00:00,P269,Delta Charger,Wearables,France,4,279,1116
+ORD1568,2024-08-22 23:00:00,P578,Delta Charger,Electronics,United Kingdom,4,279,1116
+ORD1569,2024-07-27 15:00:00,P864,Theta Lens,Electronics,United Kingdom,4,358,1432
+ORD1570,2024-12-12 21:00:00,P985,Gamma Headphones,Electronics,Germany,1,375,375
+ORD1571,2024-05-31 08:00:00,P501,Delta Charger,Electronics,Germany,3,279,837
+ORD1572,2024-04-13 10:00:00,P150,Zeta Case,Electronics,United Kingdom,4,415,1660
+ORD1573,2024-01-18 10:00:00,P304,Alpha Phone,Wearables,India,4,13,52
+ORD1574,2024-01-03 21:00:00,P194,Eta Bag,Electronics,Canada,1,191,191
+ORD1575,2024-05-16 23:00:00,P782,Eta Bag,Wearables,Canada,4,191,764
+ORD1576,2024-12-03 23:00:00,P985,Zeta Case,Accessories,United States,1,415,415
+ORD1577,2024-07-10 18:00:00,P598,Zeta Case,Accessories,India,2,415,830
+ORD1578,2024-11-22 12:00:00,P258,Zeta Case,Electronics,United Kingdom,3,415,1245
+ORD1579,2024-02-07 12:00:00,P119,Eta Bag,Electronics,India,2,191,382
+ORD1580,2024-02-04 23:00:00,P977,Theta Lens,Accessories,Germany,3,358,1074
+ORD1581,2024-10-31 06:00:00,P384,Delta Charger,Electronics,India,1,279,279
+ORD1582,2024-02-08 08:00:00,P200,Delta Charger,Wearables,United Kingdom,3,279,837
+ORD1583,2024-01-19 21:00:00,P259,Zeta Case,Electronics,United Kingdom,3,415,1245
+ORD1584,2024-05-27 09:00:00,P329,Beta Tablet,Electronics,Pakistan,3,287,861
+ORD1585,2024-12-03 05:00:00,P689,Eta Bag,Wearables,Pakistan,2,191,382
+ORD1586,2024-09-08 13:00:00,P901,Eta Bag,Accessories,Germany,2,191,382
+ORD1587,2024-02-06 07:00:00,P347,Zeta Case,Electronics,United States,2,415,830
+ORD1588,2024-11-01 21:00:00,P717,Gamma Headphones,Wearables,India,2,375,750
+ORD1589,2024-11-03 21:00:00,P158,Gamma Headphones,Electronics,Canada,3,375,1125
+ORD1590,2024-10-19 07:00:00,P109,Delta Charger,Wearables,India,2,279,558
+ORD1591,2024-11-25 12:00:00,P149,Zeta Case,Wearables,India,2,415,830
+ORD1592,2024-03-28 23:00:00,P929,Eta Bag,Wearables,Pakistan,2,191,382
+ORD1593,2024-12-23 17:00:00,P622,Zeta Case,Wearables,France,1,415,415
+ORD1594,2024-04-27 05:00:00,P823,Theta Lens,Electronics,France,3,358,1074
+ORD1595,2024-10-19 14:00:00,P119,Theta Lens,Wearables,Germany,4,358,1432
+ORD1596,2024-07-30 14:00:00,P119,Zeta Case,Electronics,United States,2,415,830
+ORD1597,2024-10-11 15:00:00,P863,Gamma Headphones,Accessories,Canada,4,375,1500
+ORD1598,2024-08-17 00:00:00,P192,Epsilon Watch,Electronics,Pakistan,3,198,594
+ORD1599,2024-08-22 07:00:00,P239,Delta Charger,Accessories,Pakistan,1,279,279
+ORD1600,2024-08-12 20:00:00,P566,Zeta Case,Wearables,Germany,2,415,830
+ORD1601,2024-10-11 05:00:00,P645,Eta Bag,Accessories,France,1,191,191
+ORD1602,2024-09-26 07:00:00,P305,Gamma Headphones,Electronics,United States,1,375,375
+ORD1603,2024-02-19 07:00:00,P499,Epsilon Watch,Electronics,Germany,2,198,396
+ORD1604,2024-10-28 04:00:00,P706,Alpha Phone,Wearables,Germany,2,13,26
+ORD1605,2024-07-14 03:00:00,P498,Zeta Case,Accessories,India,4,415,1660
+ORD1606,2024-04-27 08:00:00,P444,Delta Charger,Accessories,Canada,1,279,279
+ORD1607,2024-07-06 20:00:00,P164,Delta Charger,Accessories,United Kingdom,4,279,1116
+ORD1608,2024-12-18 00:00:00,P506,Epsilon Watch,Electronics,Canada,1,198,198
+ORD1609,2024-11-09 06:00:00,P821,Beta Tablet,Accessories,United Kingdom,1,287,287
+ORD1610,2024-10-31 01:00:00,P663,Epsilon Watch,Accessories,Germany,3,198,594
+ORD1611,2024-06-17 13:00:00,P902,Zeta Case,Wearables,France,4,415,1660
+ORD1612,2024-10-13 06:00:00,P213,Gamma Headphones,Accessories,Pakistan,3,375,1125
+ORD1613,2024-05-20 19:00:00,P109,Beta Tablet,Wearables,India,1,287,287
+ORD1614,2024-09-07 14:00:00,P592,Delta Charger,Wearables,United States,1,279,279
+ORD1615,2024-08-21 18:00:00,P260,Beta Tablet,Electronics,United Kingdom,2,287,574
+ORD1616,2024-04-01 15:00:00,P633,Gamma Headphones,Accessories,Canada,2,375,750
+ORD1617,2024-04-07 10:00:00,P912,Zeta Case,Accessories,United Kingdom,4,415,1660
+ORD1618,2024-01-23 20:00:00,P403,Alpha Phone,Electronics,Pakistan,2,13,26
+ORD1619,2024-02-21 11:00:00,P593,Zeta Case,Electronics,United States,1,415,415
+ORD1620,2024-06-07 22:00:00,P712,Beta Tablet,Wearables,United States,4,287,1148
+ORD1621,2024-06-23 23:00:00,P234,Theta Lens,Accessories,India,1,358,358
+ORD1622,2024-03-01 14:00:00,P906,Zeta Case,Electronics,India,1,415,415
+ORD1623,2024-06-01 16:00:00,P282,Gamma Headphones,Electronics,United Kingdom,2,375,750
+ORD1624,2024-08-08 06:00:00,P826,Epsilon Watch,Electronics,Canada,2,198,396
+ORD1625,2024-03-25 19:00:00,P693,Alpha Phone,Electronics,Germany,3,13,39
+ORD1626,2024-05-03 16:00:00,P226,Alpha Phone,Electronics,Germany,4,13,52
+ORD1627,2024-05-14 21:00:00,P751,Theta Lens,Wearables,India,4,358,1432
+ORD1628,2024-07-03 06:00:00,P276,Eta Bag,Wearables,Canada,2,191,382
+ORD1629,2024-05-13 18:00:00,P638,Beta Tablet,Accessories,United States,4,287,1148
+ORD1630,2024-09-25 11:00:00,P962,Gamma Headphones,Accessories,Canada,3,375,1125
+ORD1631,2024-04-29 04:00:00,P956,Beta Tablet,Wearables,Germany,1,287,287
+ORD1632,2024-06-07 04:00:00,P883,Delta Charger,Wearables,Germany,4,279,1116
+ORD1633,2024-05-18 13:00:00,P544,Gamma Headphones,Electronics,Germany,1,375,375
+ORD1634,2024-03-07 07:00:00,P603,Gamma Headphones,Wearables,India,3,375,1125
+ORD1635,2024-09-07 02:00:00,P369,Epsilon Watch,Electronics,Pakistan,4,198,792
+ORD1636,2024-03-26 10:00:00,P927,Beta Tablet,Electronics,United Kingdom,1,287,287
+ORD1637,2024-04-18 15:00:00,P529,Theta Lens,Accessories,Canada,2,358,716
+ORD1638,2024-10-16 07:00:00,P793,Zeta Case,Wearables,France,2,415,830
+ORD1639,2024-12-12 22:00:00,P423,Eta Bag,Electronics,Canada,4,191,764
+ORD1640,2024-09-01 18:00:00,P765,Beta Tablet,Electronics,Canada,1,287,287
+ORD1641,2024-11-30 12:00:00,P301,Zeta Case,Electronics,United Kingdom,3,415,1245
+ORD1642,2024-11-07 22:00:00,P759,Eta Bag,Accessories,United Kingdom,2,191,382
+ORD1643,2024-06-24 10:00:00,P141,Beta Tablet,Wearables,Pakistan,1,287,287
+ORD1644,2024-10-08 03:00:00,P194,Eta Bag,Electronics,Pakistan,3,191,573
+ORD1645,2024-04-29 00:00:00,P416,Gamma Headphones,Electronics,Pakistan,4,375,1500
+ORD1646,2024-06-17 22:00:00,P533,Eta Bag,Electronics,Canada,3,191,573
+ORD1647,2024-07-14 23:00:00,P739,Delta Charger,Electronics,United States,1,279,279
+ORD1648,2024-12-16 17:00:00,P422,Eta Bag,Electronics,United Kingdom,1,191,191
+ORD1649,2024-11-05 02:00:00,P116,Beta Tablet,Accessories,Canada,2,287,574
+ORD1650,2024-06-27 07:00:00,P392,Delta Charger,Accessories,Germany,3,279,837
+ORD1651,2024-08-26 00:00:00,P494,Gamma Headphones,Accessories,India,3,375,1125
+ORD1652,2024-03-14 01:00:00,P588,Beta Tablet,Wearables,India,1,287,287
+ORD1653,2024-10-20 05:00:00,P678,Gamma Headphones,Accessories,United States,3,375,1125
+ORD1654,2024-07-20 13:00:00,P322,Delta Charger,Electronics,France,2,279,558
+ORD1655,2024-07-13 01:00:00,P648,Beta Tablet,Accessories,Canada,3,287,861
+ORD1656,2024-10-06 23:00:00,P667,Zeta Case,Electronics,United Kingdom,4,415,1660
+ORD1657,2024-08-19 10:00:00,P798,Epsilon Watch,Wearables,Germany,3,198,594
+ORD1658,2024-01-27 06:00:00,P569,Eta Bag,Electronics,United States,1,191,191
+ORD1659,2024-04-15 12:00:00,P828,Zeta Case,Electronics,Canada,4,415,1660
+ORD1660,2024-03-05 18:00:00,P299,Beta Tablet,Wearables,Germany,1,287,287
+ORD1661,2024-09-25 07:00:00,P739,Alpha Phone,Accessories,United Kingdom,4,13,52
+ORD1662,2024-01-13 01:00:00,P141,Delta Charger,Electronics,France,1,279,279
+ORD1663,2024-03-14 01:00:00,P192,Delta Charger,Wearables,Germany,3,279,837
+ORD1664,2024-08-06 20:00:00,P877,Beta Tablet,Electronics,Pakistan,1,287,287
+ORD1665,2024-09-10 02:00:00,P527,Eta Bag,Wearables,United Kingdom,1,191,191
+ORD1666,2024-07-02 15:00:00,P658,Epsilon Watch,Wearables,United States,3,198,594
+ORD1667,2024-11-10 09:00:00,P642,Zeta Case,Accessories,Germany,3,415,1245
+ORD1668,2024-12-01 18:00:00,P724,Alpha Phone,Accessories,United Kingdom,1,13,13
+ORD1669,2024-02-18 01:00:00,P320,Eta Bag,Accessories,France,4,191,764
+ORD1670,2024-12-13 21:00:00,P260,Beta Tablet,Accessories,United States,2,287,574
+ORD1671,2024-08-12 16:00:00,P138,Delta Charger,Electronics,France,2,279,558
+ORD1672,2024-08-20 10:00:00,P877,Delta Charger,Electronics,India,2,279,558
+ORD1673,2024-02-04 04:00:00,P301,Eta Bag,Electronics,United States,2,191,382
+ORD1674,2024-08-14 23:00:00,P617,Gamma Headphones,Wearables,Canada,1,375,375
+ORD1675,2024-09-21 07:00:00,P508,Beta Tablet,Electronics,Pakistan,2,287,574
+ORD1676,2024-07-30 11:00:00,P245,Gamma Headphones,Accessories,Germany,1,375,375
+ORD1677,2024-01-31 09:00:00,P472,Gamma Headphones,Wearables,United Kingdom,1,375,375
+ORD1678,2024-07-09 05:00:00,P174,Beta Tablet,Wearables,United Kingdom,2,287,574
+ORD1679,2024-12-07 09:00:00,P258,Beta Tablet,Electronics,Pakistan,3,287,861
+ORD1680,2024-09-21 03:00:00,P225,Beta Tablet,Electronics,India,4,287,1148
+ORD1681,2024-02-20 00:00:00,P841,Delta Charger,Wearables,Canada,2,279,558
+ORD1682,2024-12-16 06:00:00,P610,Gamma Headphones,Electronics,Germany,2,375,750
+ORD1683,2024-12-15 02:00:00,P932,Delta Charger,Electronics,Pakistan,4,279,1116
+ORD1684,2024-03-02 09:00:00,P491,Zeta Case,Wearables,United Kingdom,3,415,1245
+ORD1685,2024-10-19 20:00:00,P281,Beta Tablet,Wearables,United Kingdom,4,287,1148
+ORD1686,2024-05-28 03:00:00,P647,Theta Lens,Wearables,Pakistan,4,358,1432
+ORD1687,2024-08-04 00:00:00,P935,Eta Bag,Wearables,United Kingdom,4,191,764
+ORD1688,2024-06-11 02:00:00,P578,Beta Tablet,Electronics,Pakistan,4,287,1148
+ORD1689,2024-10-12 12:00:00,P116,Gamma Headphones,Electronics,Germany,2,375,750
+ORD1690,2024-12-29 06:00:00,P372,Beta Tablet,Electronics,India,2,287,574
+ORD1691,2024-10-17 11:00:00,P931,Gamma Headphones,Electronics,United States,2,375,750
+ORD1692,2024-12-05 00:00:00,P565,Gamma Headphones,Wearables,India,1,375,375
+ORD1693,2024-12-11 07:00:00,P955,Beta Tablet,Electronics,United Kingdom,3,287,861
+ORD1694,2024-02-02 09:00:00,P557,Alpha Phone,Accessories,United States,3,13,39
+ORD1695,2024-04-02 10:00:00,P110,Delta Charger,Wearables,Pakistan,4,279,1116
+ORD1696,2024-09-20 13:00:00,P884,Zeta Case,Wearables,Germany,1,415,415
+ORD1697,2024-08-03 18:00:00,P785,Gamma Headphones,Electronics,Pakistan,2,375,750
+ORD1698,2024-01-19 11:00:00,P743,Eta Bag,Accessories,United States,1,191,191
+ORD1699,2024-02-04 20:00:00,P972,Gamma Headphones,Accessories,United States,4,375,1500
+ORD1700,2024-07-08 12:00:00,P276,Theta Lens,Wearables,Germany,2,358,716
+ORD1701,2024-08-12 06:00:00,P914,Beta Tablet,Accessories,India,1,287,287
+ORD1702,2024-03-02 05:00:00,P309,Epsilon Watch,Electronics,Canada,3,198,594
+ORD1703,2024-03-03 07:00:00,P972,Eta Bag,Wearables,Pakistan,4,191,764
+ORD1704,2024-02-17 14:00:00,P272,Alpha Phone,Wearables,India,4,13,52
+ORD1705,2024-07-25 05:00:00,P594,Theta Lens,Accessories,India,1,358,358
+ORD1706,2024-01-03 21:00:00,P809,Gamma Headphones,Electronics,Germany,2,375,750
+ORD1707,2024-07-27 11:00:00,P170,Delta Charger,Accessories,France,1,279,279
+ORD1708,2024-06-22 20:00:00,P159,Zeta Case,Wearables,Germany,2,415,830
+ORD1709,2024-06-19 16:00:00,P863,Zeta Case,Wearables,France,3,415,1245
+ORD1710,2024-09-04 08:00:00,P154,Alpha Phone,Accessories,Germany,2,13,26
+ORD1711,2024-07-09 05:00:00,P651,Eta Bag,Electronics,Germany,1,191,191
+ORD1712,2024-09-22 17:00:00,P943,Epsilon Watch,Accessories,Germany,3,198,594
+ORD1713,2024-10-05 07:00:00,P652,Theta Lens,Wearables,France,1,358,358
+ORD1714,2024-12-01 05:00:00,P532,Delta Charger,Wearables,Pakistan,1,279,279
+ORD1715,2024-10-18 22:00:00,P475,Epsilon Watch,Electronics,India,1,198,198
+ORD1716,2024-07-07 11:00:00,P673,Delta Charger,Electronics,France,1,279,279
+ORD1717,2024-06-28 01:00:00,P614,Theta Lens,Accessories,United States,2,358,716
+ORD1718,2024-03-27 11:00:00,P551,Eta Bag,Electronics,France,4,191,764
+ORD1719,2024-08-06 11:00:00,P238,Theta Lens,Wearables,Canada,4,358,1432
+ORD1720,2024-02-20 20:00:00,P695,Epsilon Watch,Electronics,United States,1,198,198
+ORD1721,2024-12-05 17:00:00,P765,Eta Bag,Accessories,United States,1,191,191
+ORD1722,2024-11-04 04:00:00,P737,Gamma Headphones,Wearables,France,2,375,750
+ORD1723,2024-02-13 03:00:00,P167,Delta Charger,Wearables,India,3,279,837
+ORD1724,2024-10-13 14:00:00,P731,Eta Bag,Wearables,Germany,3,191,573
+ORD1725,2024-02-12 01:00:00,P756,Alpha Phone,Electronics,Germany,4,13,52
+ORD1726,2024-09-20 07:00:00,P264,Zeta Case,Wearables,United States,2,415,830
+ORD1727,2024-02-02 03:00:00,P863,Alpha Phone,Accessories,France,1,13,13
+ORD1728,2024-06-27 00:00:00,P570,Epsilon Watch,Electronics,United States,1,198,198
+ORD1729,2024-08-28 22:00:00,P524,Delta Charger,Accessories,Pakistan,1,279,279
+ORD1730,2024-09-23 02:00:00,P749,Delta Charger,Accessories,Pakistan,1,279,279
+ORD1731,2024-06-01 00:00:00,P558,Delta Charger,Accessories,India,4,279,1116
+ORD1732,2024-12-02 22:00:00,P589,Delta Charger,Electronics,United Kingdom,2,279,558
+ORD1733,2024-10-09 04:00:00,P380,Delta Charger,Accessories,United Kingdom,4,279,1116
+ORD1734,2024-03-17 19:00:00,P934,Delta Charger,Accessories,Canada,3,279,837
+ORD1735,2024-09-01 00:00:00,P971,Epsilon Watch,Electronics,Pakistan,3,198,594
+ORD1736,2024-09-23 03:00:00,P217,Eta Bag,Wearables,United Kingdom,2,191,382
+ORD1737,2024-05-01 02:00:00,P759,Epsilon Watch,Electronics,India,4,198,792
+ORD1738,2024-09-26 16:00:00,P120,Zeta Case,Wearables,United Kingdom,1,415,415
+ORD1739,2024-11-23 14:00:00,P431,Eta Bag,Electronics,United States,1,191,191
+ORD1740,2024-10-25 11:00:00,P972,Theta Lens,Wearables,United Kingdom,2,358,716
+ORD1741,2024-10-05 05:00:00,P257,Alpha Phone,Accessories,Pakistan,2,13,26
+ORD1742,2024-08-19 02:00:00,P438,Zeta Case,Electronics,France,3,415,1245
+ORD1743,2024-04-08 13:00:00,P297,Beta Tablet,Electronics,Canada,3,287,861
+ORD1744,2024-10-17 05:00:00,P754,Beta Tablet,Wearables,France,3,287,861
+ORD1745,2024-05-12 14:00:00,P517,Eta Bag,Wearables,France,2,191,382
+ORD1746,2024-07-13 16:00:00,P633,Alpha Phone,Electronics,Germany,2,13,26
+ORD1747,2024-04-24 20:00:00,P947,Eta Bag,Accessories,Germany,4,191,764
+ORD1748,2024-04-24 11:00:00,P568,Eta Bag,Accessories,United States,1,191,191
+ORD1749,2024-02-27 00:00:00,P759,Theta Lens,Electronics,United Kingdom,3,358,1074
+ORD1750,2024-12-16 06:00:00,P188,Zeta Case,Accessories,Germany,3,415,1245
+ORD1751,2024-02-23 20:00:00,P293,Eta Bag,Wearables,United States,4,191,764
+ORD1752,2024-02-01 12:00:00,P951,Alpha Phone,Wearables,Germany,3,13,39
+ORD1753,2024-12-07 14:00:00,P872,Theta Lens,Wearables,United States,2,358,716
+ORD1754,2024-07-21 10:00:00,P690,Beta Tablet,Electronics,Pakistan,2,287,574
+ORD1755,2024-06-08 03:00:00,P440,Gamma Headphones,Electronics,United States,2,375,750
+ORD1756,2024-09-26 21:00:00,P279,Beta Tablet,Accessories,United States,2,287,574
+ORD1757,2024-05-19 18:00:00,P865,Delta Charger,Electronics,France,1,279,279
+ORD1758,2024-02-16 23:00:00,P805,Zeta Case,Accessories,United Kingdom,3,415,1245
+ORD1759,2024-09-23 20:00:00,P317,Gamma Headphones,Electronics,Canada,1,375,375
+ORD1760,2024-03-05 06:00:00,P630,Eta Bag,Electronics,Canada,3,191,573
+ORD1761,2024-07-20 06:00:00,P656,Epsilon Watch,Electronics,United Kingdom,4,198,792
+ORD1762,2024-12-12 05:00:00,P529,Zeta Case,Electronics,Pakistan,4,415,1660
+ORD1763,2024-12-07 22:00:00,P933,Theta Lens,Wearables,France,1,358,358
+ORD1764,2024-05-11 13:00:00,P211,Delta Charger,Electronics,United Kingdom,4,279,1116
+ORD1765,2024-10-11 10:00:00,P331,Gamma Headphones,Wearables,France,1,375,375
+ORD1766,2024-08-11 23:00:00,P185,Theta Lens,Electronics,France,2,358,716
+ORD1767,2024-06-23 14:00:00,P722,Epsilon Watch,Electronics,Germany,1,198,198
+ORD1768,2024-02-21 21:00:00,P678,Epsilon Watch,Accessories,France,1,198,198
+ORD1769,2024-05-17 23:00:00,P987,Gamma Headphones,Wearables,India,1,375,375
+ORD1770,2024-08-25 01:00:00,P587,Beta Tablet,Electronics,Germany,1,287,287
+ORD1771,2024-12-26 08:00:00,P235,Beta Tablet,Electronics,Canada,4,287,1148
+ORD1772,2024-01-02 17:00:00,P505,Beta Tablet,Wearables,Germany,1,287,287
+ORD1773,2024-09-18 19:00:00,P179,Beta Tablet,Accessories,Pakistan,2,287,574
+ORD1774,2024-11-04 03:00:00,P703,Zeta Case,Accessories,France,3,415,1245
+ORD1775,2024-12-13 07:00:00,P706,Alpha Phone,Wearables,United States,4,13,52
+ORD1776,2024-06-03 13:00:00,P871,Zeta Case,Wearables,Germany,4,415,1660
+ORD1777,2024-02-13 19:00:00,P405,Theta Lens,Accessories,Pakistan,1,358,358
+ORD1778,2024-04-08 02:00:00,P378,Eta Bag,Accessories,United Kingdom,4,191,764
+ORD1779,2024-11-06 14:00:00,P164,Delta Charger,Electronics,India,3,279,837
+ORD1780,2024-11-16 07:00:00,P473,Alpha Phone,Electronics,Pakistan,1,13,13
+ORD1781,2024-08-20 05:00:00,P527,Eta Bag,Accessories,Pakistan,2,191,382
+ORD1782,2024-02-14 12:00:00,P778,Alpha Phone,Electronics,United States,4,13,52
+ORD1783,2024-02-14 09:00:00,P777,Zeta Case,Wearables,France,2,415,830
+ORD1784,2024-06-23 15:00:00,P226,Zeta Case,Wearables,Germany,1,415,415
+ORD1785,2024-08-02 07:00:00,P356,Beta Tablet,Electronics,France,4,287,1148
+ORD1786,2024-01-12 19:00:00,P559,Zeta Case,Accessories,Pakistan,4,415,1660
+ORD1787,2024-09-07 01:00:00,P401,Beta Tablet,Electronics,Canada,4,287,1148
+ORD1788,2024-07-17 20:00:00,P122,Beta Tablet,Accessories,Germany,4,287,1148
+ORD1789,2024-01-05 00:00:00,P860,Eta Bag,Electronics,France,4,191,764
+ORD1790,2024-02-04 17:00:00,P757,Theta Lens,Accessories,Pakistan,2,358,716
+ORD1791,2024-06-14 08:00:00,P567,Gamma Headphones,Accessories,Pakistan,1,375,375
+ORD1792,2024-09-20 09:00:00,P385,Theta Lens,Accessories,Canada,3,358,1074
+ORD1793,2024-10-28 00:00:00,P857,Theta Lens,Accessories,India,1,358,358
+ORD1794,2024-06-06 16:00:00,P131,Eta Bag,Electronics,United States,2,191,382
+ORD1795,2024-04-17 03:00:00,P501,Beta Tablet,Wearables,Germany,3,287,861
+ORD1796,2024-12-19 15:00:00,P820,Gamma Headphones,Wearables,France,4,375,1500
+ORD1797,2024-06-16 17:00:00,P956,Zeta Case,Wearables,United States,2,415,830
+ORD1798,2024-04-25 20:00:00,P326,Theta Lens,Accessories,Germany,2,358,716
+ORD1799,2024-06-10 16:00:00,P685,Eta Bag,Wearables,France,3,191,573
